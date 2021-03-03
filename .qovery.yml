@@ -1,0 +1,11 @@
+---
+application:
+  name: "react-twit"
+  project: "test-gg"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-react-twit"
+  routes:
+  - application_name: "react-twit"
+    paths:
+    - "/*"
